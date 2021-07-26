@@ -18,3 +18,6 @@ Does the current manufacturing data meet this design specification for all manuf
 
 ![Screen Shot 2021-07-25 at 7 53 26 PM](https://user-images.githubusercontent.com/81889167/126917506-17e10a7d-bfd8-4728-b580-f480d241bfe2.png)
 ![Screen Shot 2021-07-25 at 7 52 41 PM](https://user-images.githubusercontent.com/81889167/126917508-e307dbdd-2757-4d20-b900-ee98cef434f7.png)
+
+
+## Study Design: MechaCar vs. Competition
